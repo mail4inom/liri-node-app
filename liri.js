@@ -99,7 +99,6 @@ function doIt(){
     var args = data.split(",");
        parameter = args[1];
        spotifyFunc();
-    console.log(args);
   });
 }
 
